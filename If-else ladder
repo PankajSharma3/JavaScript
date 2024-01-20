@@ -1,4 +1,4 @@
-var a = 14;
+let a = 14;
 if(a>15){
     document.getElementById("demo").innerHTML = "The value of a is greater than 15";
 }
