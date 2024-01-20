@@ -1,4 +1,4 @@
-var a = 10;
-var b = 30;
-var c = a+b;
+let a = 10;
+let b = 30;
+let c = a+b;
 document.write(c);
