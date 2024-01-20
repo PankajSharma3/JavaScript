@@ -1,4 +1,5 @@
 let a = 10;
 let b = 30;
-let c = a+b;
+const d = 2;
+let c = a+b+d;
 document.write(c);
