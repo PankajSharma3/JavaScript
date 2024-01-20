@@ -1,0 +1,10 @@
+var a = 14;
+if(a>15){
+    document.getElementById("demo").innerHTML = "The value of a is greater than 15";
+}
+else if(a==15){
+    document.getElementById("demo").innerHTML = "The value of a is equal to 15";
+}
+else{
+    document.getElementById("demo").innerHTML = "The value of a is less than 15";
+}
