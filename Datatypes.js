@@ -1,4 +1,4 @@
-var a = 10;//number
-var b = "Pankaj";//string
-var c = false; //Boolean
+let a = 10;//number
+let b = "Pankaj";//string
+let c = false; //Boolean
 let car //Undefined
